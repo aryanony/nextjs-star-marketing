@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vercel/next.js/canary/packages/create-next-app/templates/default/public/favicon.ico" width="80"/>
+  <img src="https://brandeps.com/icon-download/N/Nextjs-icon-01.png" width="180"/>
 </p>
 
 <h1 align="center">🌟 Star Marketing Services – Portfolio Website</h1>
